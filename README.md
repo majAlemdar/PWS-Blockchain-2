@@ -1,4 +1,5 @@
 # PWS-Blockchain-2
+PWS Blockchain tweede deelvraag
 - Dowload node.js.
 - cd project, npm install the node_modules.
 - To run a "node", see package.json>"scripts", f.e. "npm run node_1".
